@@ -1,5 +1,5 @@
 # GetMeizitu
-99行代码实现kotlin爬取妹子图
+我是如何利用99行代码得到13959张妹子图的
 
 ## 运行效果如下
 * [图1](http://oxupz8wcy.bkt.clouddn.com/fdsfdsafewreafdsfasfdasfdsafdsfdsaf)
@@ -9,4 +9,3 @@
 
 ![](http://oxupz8wcy.bkt.clouddn.com/fdsfdsafewreafdsfasfdasfdsafdsfdsaf)
 ![](http://oxupz8wcy.bkt.clouddn.com/4234rfewfawr234138jm32c0984m098r0h)
-
