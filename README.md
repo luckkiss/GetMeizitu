@@ -1,6 +1,6 @@
 # GetMeizitu
-我是如何利用99行代码得到13959张妹子图的
-核心代码在 src/main/kotlin/main.kt
+我是如何利用99行代码得到13959张妹子图的       
+核心代码在 src/main/kotlin/main.kt         
 姐妹篇 : [Python爬取拉钩网和库我音乐](https://github.com/DevTTL/lagou) 
 
 --------------------------------------------------
